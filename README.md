@@ -1,3 +1,3 @@
 # Resume
 ---
-<img src=wattagatta.png height=200 width=100>
+<img src=wattagatta.png height=400 width=300>
