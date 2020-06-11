@@ -1,7 +1,8 @@
 # Resume (포트폴리오)
 <img src=wattagatta.png height=320 width=220>
 
-**주철현**
+**주철현**   
+
 ---
 
 **소속** : 한림대학교 *(소프트웨어융합대학)*   
@@ -35,4 +36,5 @@
 * LP 수집(턴테이블)
 >JAZZ(Frank Sinatra...), HIP HOP(Post Malone...)   
 
+---
 
