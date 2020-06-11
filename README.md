@@ -1,3 +1,3 @@
 # Resume
 ---
-![이력서 사진](wattagatta.png)
+<img src=wattagatta.png height=200 width=100>
