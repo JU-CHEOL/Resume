@@ -23,10 +23,12 @@
 >(Conor McGregor)
 
 * 음악
->1.재즈   
+>1.JAZZ   
 >(Frank Sinatra)   
 
->2.힙합   
->(Beenzino, pH-1, Post Malone)
+>2.HIP HOP   
+>(Beenzino, pH-1, Post Malone)   
 
-  
+* LP 수집(턴테이블)
+>Jazz(Frank Sinatra...), Hip Hop(Post Malone...)
+
