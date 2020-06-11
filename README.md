@@ -13,6 +13,8 @@
 
 * 경영학(사업 목표)
 
+* 주식(투자)   
+
 * 스포츠
 >1.축구   
 >(EPL-Arsenal)   
@@ -32,5 +34,4 @@
 * LP 수집(턴테이블)
 >JAZZ(Frank Sinatra...), HIP HOP(Post Malone...)   
 
-* 주식(투자)
 
