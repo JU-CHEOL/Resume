@@ -47,3 +47,7 @@
 |---|---|---|
 |토익|700점대 후반|900점대까지 보완|
 |교환학생|교환학생 희망|토익 점수 보완 후 신청 예정|
+
+github address : [JU-CHEOL][github]
+
+[github]:http://github.com/JU-CHEOL
