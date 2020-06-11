@@ -11,7 +11,7 @@
 * 데이터(통계)
 + 스포츠
 >1.축구   
->>(EPL-Arsenal)   
+>(EPL-Arsenal)   
 >2.헬스   
 >3.UFC   
->>(Conor McGregor)
+>(Conor McGregor)
