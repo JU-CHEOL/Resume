@@ -1,4 +1,4 @@
-# Resume
+# Resume (개인 이력서)
 <img src=wattagatta.png height=310 width=220>
 
 **주철현**
