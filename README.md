@@ -55,7 +55,7 @@
 |MOS|MS Word 2010, MS Excel 2010, MS PowerPoint 2010, MS Access 2010|**MOS Master**|
 |워드프로세서|취득|**군 복무 중 취득**|
 |컴활 1급|컴퓨터활용능력 1급|*취득 예정*|
-|ADsP|빅데이터 분석 준전문가|*취득 예정*|
+|ADsP|<span style="color:red">빅데이터</span> 분석 준전문가|*취득 예정*|
 
 ---
 
